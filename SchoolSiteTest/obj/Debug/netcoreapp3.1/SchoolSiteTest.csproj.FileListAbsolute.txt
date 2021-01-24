@@ -1,0 +1,17 @@
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\bin\Debug\netcoreapp3.1\SchoolSiteTest.exe
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\obj\Debug\netcoreapp3.1\SchoolSiteTest.AssemblyInfoInputs.cache
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\obj\Debug\netcoreapp3.1\SchoolSiteTest.AssemblyInfo.cs
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\obj\Debug\netcoreapp3.1\SchoolSiteTest.csprojAssemblyReference.cache
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\obj\Debug\netcoreapp3.1\SchoolSiteTest.csproj.CopyComplete
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\bin\Debug\netcoreapp3.1\SchoolSiteTest.deps.json
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\bin\Debug\netcoreapp3.1\SchoolSiteTest.runtimeconfig.json
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\bin\Debug\netcoreapp3.1\SchoolSiteTest.runtimeconfig.dev.json
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\bin\Debug\netcoreapp3.1\SchoolSiteTest.dll
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\bin\Debug\netcoreapp3.1\SchoolSiteTest.pdb
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\obj\Debug\netcoreapp3.1\SchoolSiteTest.dll
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\obj\Debug\netcoreapp3.1\SchoolSiteTest.pdb
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\obj\Debug\netcoreapp3.1\SchoolSiteTest.genruntimeconfig.cache
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\Study\НПО\Lab6\SchoolSiteTest\SchoolSiteTest\obj\Debug\netcoreapp3.1\SchoolSiteTest.csproj.CoreCompileInputs.cache
